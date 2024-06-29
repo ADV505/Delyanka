@@ -5,7 +5,7 @@
     <WasmMainJSPath>AppBundle\main.js</WasmMainJSPath>
     <OutputType>Exe</OutputType>
   </PropertyGroup>
-
+  
   <ItemGroup>
     <WasmExtraFilesToDeploy Include="AppBundle\**" />
   </ItemGroup>
